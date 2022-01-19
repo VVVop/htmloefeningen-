@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(0, 255, 242);
+}
+h1{
+    background-color: blueviolet;
+}
+p{
+    background-color: maroon;
+}
+h2{
+background-color: orangered;
+}
+
+.in-my-row{
+    background-color: yellow;
+}
+
+#myself{
+    text-decoration: underline;
+    color: maroon;
+}
